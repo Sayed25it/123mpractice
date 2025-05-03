@@ -1,0 +1,25 @@
+h1 {text-align: center;color: red; font-family: Verdana;}
+
+.p1 {font-family: 'Courier New', Courier, monospace;} 
+
+p{font-family: 'Courier New', Courier, monospace;}
+
+.hig{font-family: 'Courier New', Courier, monospace;}
+
+img {height: 250px; width: 250px;}
+
+
+.pic1{float: right;}
+
+
+.pic2{float:left}
+
+.exp{text-align: center;}
+
+
+.c1{color: white;}
+
+body{background: #f6caca;}
+
+.disease{text-align: center;}
+
